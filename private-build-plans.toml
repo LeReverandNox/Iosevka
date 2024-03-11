@@ -24,6 +24,7 @@ inherits = "ss09"
 one = "base"
 nine = "open-contour"
 g = "single-storey-flat-hook-serifless"
+f = "flat-hook-serifless"
 i = "serifed"
 r = "serifed"
 
@@ -138,8 +139,9 @@ css   = "normal"   # "font-stretch' property of webfont CSS.
 
 [buildPlans.IosevkaLRNSS09.excludeChars]
 ranges = [
-	[10003, 10008], # ✓✔✕✖✗✘
-	[10060, 10060]  # ❌
+	[10003, 10008],   # ✓✔✕✖✗✘
+	[10060, 10060],   # ❌
+	[128578, 128578], # 🙂
 ]
 
 # End character exclusion
