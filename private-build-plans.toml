@@ -67,14 +67,24 @@ r = "serifed"
 # css   = 400  # Weight for webfont CSS.
 
 [buildPlans.IosevkaLRNSS09.weights.Regular]
-shape = 600
+shape = 500
 menu  = 400
 css   = 400
 
+[buildPlans.IosevkaLRNSS09.weights.Medium]
+shape = 600
+menu  = 500
+css   = 500
+
 [buildPlans.IosevkaLRNSS09.weights.Bold]
-shape = 900
+shape = 800
 menu  = 700
 css   = 700
+
+[buildPlans.IosevkaLRNSS09.weights.ExtraBold]
+shape = 900
+menu  = 800
+css   = 800
 
 # End weight section
 ###################################################################################################
