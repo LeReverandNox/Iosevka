@@ -6,7 +6,7 @@ family = "Iosevka LRNSS09"        # Font menu family name
 spacing = "fixed"               # Optional; Values: `normal`, `term`, `fontconfig-mono`, or `fixed`
 serifs = "sans"                  # Optional; Values: `sans` or `slab`
 exportGlyphNames = false       # Set this to true for ligature support in Kitty (increased file size)
-noCvSs = false
+noCvSs = true
 noLigation = true
 buildTextureFeature = false
 
