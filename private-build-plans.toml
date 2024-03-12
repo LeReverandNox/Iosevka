@@ -21,6 +21,8 @@ inherits = "ss09"
 
 # Optional; Configure single character's variant
 [buildPlans.IosevkaLRNSS09.variants.design]
+percent = "rings-continuous-slash"
+dollar = "through"
 one = "base"
 nine = "open-contour"
 g = "single-storey-flat-hook-serifless"
