@@ -23,6 +23,8 @@ inherits = "ss09"
 [buildPlans.IosevkaLRNSS09.variants.design]
 percent = "rings-continuous-slash"
 dollar = "through"
+asterisk = "turn-hex-low"
+at = "fourfold"
 one = "base"
 nine = "open-contour"
 g = "single-storey-flat-hook-serifless"
